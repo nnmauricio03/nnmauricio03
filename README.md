@@ -1,4 +1,11 @@
 ### Hi there 👋
+![welcome](https://media.tenor.com/j5FqU7M2Qz0AAAAM/flaming-elmo.gif)
+
+![random](https://37.media.tumblr.com/9dcdc7307fe669dc3def38b913697b87/tumblr_n4amnqDx4Y1tu005io1_500.gif)
+
+---
+Sobre mi:
+Actualmente tengo 19 años, y estoy estudiando licenciatura en computacion en la UABJO, aunque antes no me interesaba mucho, comienza a gustarme esta carrera.
 
 <!--
 **nnmauricio03/nnmauricio03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
