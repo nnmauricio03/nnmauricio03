@@ -5,6 +5,7 @@
 
 ---
 Sobre mi:
+
 Actualmente tengo 19 años, y estoy estudiando licenciatura en computacion en la UABJO, aunque antes no me interesaba mucho, comienza a gustarme esta carrera.
 
 <!--
