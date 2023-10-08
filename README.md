@@ -6,7 +6,7 @@
 ---
 Sobre mi:
 
-Actualmente tengo 19 años, y estoy estudiando licenciatura en computacion en la UABJO, aunque antes no me interesaba mucho, comienza a gustarme esta carrera.
+ACTIALMENTE
 
 <!--
 **nnmauricio03/nnmauricio03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
